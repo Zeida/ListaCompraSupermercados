@@ -1,0 +1,183 @@
+{
+    "supermercado": [{
+            "cadena": "Spar",
+            "direccion": "Calle Miguel Hernández, 4",
+            "geolocalización": "N33°0'0'E65°0'0",
+            "secciones": [{
+                    "nombre": "fruteria",
+                    "productos": [{
+                            "nombre": "tomate rama",
+                            "descripcion": "tomate rama huerta Murcia",
+                            "origen": "España",
+                            "perecedero": true,
+                            "precioKilo": 3.2,
+                            "unidades": 7,
+                            "adquirido": false,
+                            "oferta": true,
+                            "periodoOferta": "23/04/21",
+                            "precioRebajado": 1.4
+                        },
+                        {
+                            "nombre": "pera conferencia",
+                            "descripcion": "pera conferencia origen Bierzo",
+                            "origen": "España",
+                            "perecedero": true,
+                            "precioKilo": 2.10,
+                            "unidades": 4,
+                            "adquirido": false,
+                            "oferta": false,
+                            "periodoOferta": "",
+                            "precioRebajado": null
+                        }
+                    ]
+                },
+                {
+                    "nombre": "pescaderia",
+                    "productos": [{
+                            "nombre": "pescadilla",
+                            "descripcion": "pescadilla mar del norte",
+                            "origen": "Noruega",
+                            "perecedero": true,
+                            "precioKilo": 7.27,
+                            "unidades": 2,
+                            "adquirido": false,
+                            "oferta": false,
+                            "periodoOferta": "",
+                            "precioRebajado": null
+                        },
+                        {
+                            "nombre": "chipirón",
+                            "descripcion": "chipirón Ria Gallega",
+                            "origen": "España",
+                            "perecedero": true,
+                            "unidades": 1,
+                            "precioKilo": 12.10,
+                            "adquirido": false,
+                            "oferta": false,
+                            "periodoOferta": "",
+                            "precioRebajado": null
+                        }
+                    ]
+                },
+                {
+                    "nombre": "charcutería",
+                    "productos": [{
+                            "nombre": "jamon serrano",
+                            "descripcion": "jamon de bellota",
+                            "origen": "Ibérico",
+                            "perecedero": true,
+                            "precioKilo": 18.9,
+                            "unidades": 1,
+                            "adquirido": false,
+                            "oferta": false,
+                            "periodoOferta": "",
+                            "precioRebajado": null
+                        },
+                        {
+                            "nombre": "queso flor de guía",
+                            "descripcion": "queso de los Altos de Gáldar",
+                            "origen": "Canarias",
+                            "perecedero": true,
+                            "precioKilo": 15.10,
+                            "unidades": 1,
+                            "adquirido": false,
+                            "oferta": false,
+                            "periodoOferta": "",
+                            "precioRebajado": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cadena": "Mercadona",
+            "direccion": "Calle Agora, 24",
+            "geolocalización": "N33°0'0'E66°0'0",
+            "secciones": [{
+                    "nombre": "fruteria",
+                    "productos": [{
+                            "nombre": "tomate rama",
+                            "descripcion": "tomate rama huerta Murcia",
+                            "origen": "España",
+                            "perecedero": true,
+                            "precioKilo": 3.2,
+                            "unidades": 7,
+                            "adquirido": false,
+                            "oferta": "true",
+                            "periodoOferta": "31/03/21",
+                            "precioRebajado": 2.9
+                        },
+                        {
+                            "nombre": "pera conferencia",
+                            "descripcion": "pera conferencia origen Bierzo",
+                            "origen": "España",
+                            "perecedero": true,
+                            "precioKilo": 2.50,
+                            "unidades": 4,
+                            "adquirido": false,
+                            "oferta": false,
+                            "periodoOferta": "",
+                            "precioRebajado": null
+                        }
+                    ]
+                },
+                {
+                    "nombre": "pescaderia",
+                    "productos": [{
+                            "nombre": "pescadilla",
+                            "descripcion": "pescadilla mar del norte",
+                            "origen": "Noruega",
+                            "perecedero": true,
+                            "precioKilo": 7.00,
+                            "unidades": 2,
+                            "adquirido": false,
+                            "oferta": false,
+                            "periodoOferta": "",
+                            "precioRebajado": null
+                        },
+                        {
+                            "nombre": "chipirón",
+                            "descripcion": "chipirón Ria Gallega",
+                            "origen": "España",
+                            "perecedero": true,
+                            "unidades": 1,
+                            "precioKilo": 12.10,
+                            "adquirido": false,
+                            "oferta": false,
+                            "periodoOferta": "",
+                            "precioRebajado": null
+                        }
+                    ]
+                },
+                {
+                    "nombre": "charcutería",
+                    "productos": [{
+                            "nombre": "jamon serrano",
+                            "descripcion": "jamon de bellota",
+                            "origen": "Ibérico",
+                            "perecedero": true,
+                            "precioKilo": 20.30,
+                            "unidades": 1,
+                            "adquirido": false,
+                            "oferta": true,
+                            "periodoOferta": "21/04/21",
+                            "precioRebajado": 15.60
+                        },
+                        {
+                            "nombre": "queso flor de guía",
+                            "descripcion": "queso de los Altos de Gáldar",
+                            "origen": "Canarias",
+                            "perecedero": true,
+                            "precioKilo": 12.10,
+                            "unidades": 1,
+                            "adquirido": false,
+                            "oferta": false,
+                            "periodoOferta": "",
+                            "precioRebajado": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

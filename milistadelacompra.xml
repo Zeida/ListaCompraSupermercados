@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <supermercado>
+    <cadena>Spar</cadena>
+    <direccion>Calle Miguel Hernández, 4</direccion>
+    <geolocalización>N33°0'0'E65°0'0</geolocalización>
+    <secciones>
+      <nombre>fruteria</nombre>
+      <productos>
+        <nombre>tomate rama</nombre>
+        <descripcion>tomate rama huerta Murcia</descripcion>
+        <origen>España</origen>
+        <perecedero boolean="true">true</perecedero>
+        <precioKilo number="true">3.2</precioKilo>
+        <unidades number="true">7</unidades>
+        <adquirido boolean="true">false</adquirido>
+        <oferta boolean="true">true</oferta>
+        <periodoOferta>23/04/21</periodoOferta>
+        <precioRebajado number="true">1.4</precioRebajado>
+      </productos>
+      <productos>
+        <nombre>pera conferencia</nombre>
+        <descripcion>pera conferencia origen Bierzo</descripcion>
+        <origen>España</origen>
+        <perecedero boolean="true">true</perecedero>
+        <precioKilo number="true">2.10</precioKilo>
+        <unidades number="true">4</unidades>
+        <adquirido boolean="true">false</adquirido>
+        <oferta boolean="true">false</oferta>
+        <periodoOferta string="true"/>
+        <precioRebajado null="true"/>
+      </productos>
+    </secciones>
+    <secciones>
+      <nombre>pescaderia</nombre>
+      <productos>
+        <nombre>pescadilla</nombre>
+        <descripcion>pescadilla mar del norte</descripcion>
+        <origen>Noruega</origen>
+        <perecedero boolean="true">true</perecedero>
+        <precioKilo number="true">7.27</precioKilo>
+        <unidades number="true">2</unidades>
+        <adquirido boolean="true">false</adquirido>
+        <oferta boolean="true">false</oferta>
+        <periodoOferta string="true"/>
+        <precioRebajado null="true"/>
+      </productos>
+      <productos>
+        <nombre>chipirón</nombre>
+        <descripcion>chipirón Ria Gallega</descripcion>
+        <origen>España</origen>
+        <perecedero boolean="true">true</perecedero>
+        <unidades number="true">1</unidades>
+        <precioKilo number="true">12.10</precioKilo>
+        <adquirido boolean="true">false</adquirido>
+        <oferta boolean="true">false</oferta>
+        <periodoOferta string="true"/>
+        <precioRebajado null="true"/>
+      </productos>
+    </secciones>
+    <secciones>
+      <nombre>charcutería</nombre>
+      <productos>
+        <nombre>jamon serrano</nombre>
+        <descripcion>jamon de bellota</descripcion>
+        <origen>Ibérico</origen>
+        <perecedero boolean="true">true</perecedero>
+        <precioKilo number="true">18.9</precioKilo>
+        <unidades number="true">1</unidades>
+        <adquirido boolean="true">false</adquirido>
+        <oferta boolean="true">false</oferta>
+        <periodoOferta string="true"/>
+        <precioRebajado null="true"/>
+      </productos>
+      <productos>
+        <nombre>queso flor de guía</nombre>
+        <descripcion>queso de los Altos de Gáldar</descripcion>
+        <origen>Canarias</origen>
+        <perecedero boolean="true">true</perecedero>
+        <precioKilo number="true">15.10</precioKilo>
+        <unidades number="true">1</unidades>
+        <adquirido boolean="true">false</adquirido>
+        <oferta boolean="true">false</oferta>
+        <periodoOferta string="true"/>
+        <precioRebajado null="true"/>
+      </productos>
+    </secciones>
+  </supermercado>
+  <supermercado>
+    <cadena>Mercadona</cadena>
+    <direccion>Calle Agora, 24</direccion>
+    <geolocalización>N33°0'0'E66°0'0</geolocalización>
+    <secciones>
+      <nombre>fruteria</nombre>
+      <productos>
+        <nombre>tomate rama</nombre>
+        <descripcion>tomate rama huerta Murcia</descripcion>
+        <origen>España</origen>
+        <perecedero boolean="true">true</perecedero>
+        <precioKilo number="true">3.2</precioKilo>
+        <unidades number="true">7</unidades>
+        <adquirido boolean="true">false</adquirido>
+        <oferta>true</oferta>
+        <periodoOferta>31/03/21</periodoOferta>
+        <precioRebajado number="true">2.9</precioRebajado>
+      </productos>
+      <productos>
+        <nombre>pera conferencia</nombre>
+        <descripcion>pera conferencia origen Bierzo</descripcion>
+        <origen>España</origen>
+        <perecedero boolean="true">true</perecedero>
+        <precioKilo number="true">2.50</precioKilo>
+        <unidades number="true">4</unidades>
+        <adquirido boolean="true">false</adquirido>
+        <oferta boolean="true">false</oferta>
+        <periodoOferta string="true"/>
+        <precioRebajado null="true"/>
+      </productos>
+    </secciones>
+    <secciones>
+      <nombre>pescaderia</nombre>
+      <productos>
+        <nombre>pescadilla</nombre>
+        <descripcion>pescadilla mar del norte</descripcion>
+        <origen>Noruega</origen>
+        <perecedero boolean="true">true</perecedero>
+        <precioKilo number="true">7.00</precioKilo>
+        <unidades number="true">2</unidades>
+        <adquirido boolean="true">false</adquirido>
+        <oferta boolean="true">false</oferta>
+        <periodoOferta string="true"/>
+        <precioRebajado null="true"/>
+      </productos>
+      <productos>
+        <nombre>chipirón</nombre>
+        <descripcion>chipirón Ria Gallega</descripcion>
+        <origen>España</origen>
+        <perecedero boolean="true">true</perecedero>
+        <unidades number="true">1</unidades>
+        <precioKilo number="true">12.10</precioKilo>
+        <adquirido boolean="true">false</adquirido>
+        <oferta boolean="true">false</oferta>
+        <periodoOferta string="true"/>
+        <precioRebajado null="true"/>
+      </productos>
+    </secciones>
+    <secciones>
+      <nombre>charcutería</nombre>
+      <productos>
+        <nombre>jamon serrano</nombre>
+        <descripcion>jamon de bellota</descripcion>
+        <origen>Ibérico</origen>
+        <perecedero boolean="true">true</perecedero>
+        <precioKilo number="true">20.30</precioKilo>
+        <unidades number="true">1</unidades>
+        <adquirido boolean="true">false</adquirido>
+        <oferta boolean="true">true</oferta>
+        <periodoOferta>21/04/21</periodoOferta>
+        <precioRebajado number="true">15.60</precioRebajado>
+      </productos>
+      <productos>
+        <nombre>queso flor de guía</nombre>
+        <descripcion>queso de los Altos de Gáldar</descripcion>
+        <origen>Canarias</origen>
+        <perecedero boolean="true">true</perecedero>
+        <precioKilo number="true">12.10</precioKilo>
+        <unidades number="true">1</unidades>
+        <adquirido boolean="true">false</adquirido>
+        <oferta boolean="true">false</oferta>
+        <periodoOferta string="true"/>
+        <precioRebajado null="true"/>
+      </productos>
+    </secciones>
+  </supermercado>
+</root>
